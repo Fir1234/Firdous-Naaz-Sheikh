@@ -26,7 +26,7 @@
 ## What:
 
 ### What does the project do ?
-1.the game do playwith us scissorpaper rock game by randoem function game
+1.the game do playwith us snake game by randoem function game
 
 ## When:
 
