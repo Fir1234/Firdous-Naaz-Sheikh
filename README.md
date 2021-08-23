@@ -9,7 +9,7 @@
 ### Weaknesses
 * programme  may get several draw cases because of draw condition
 
-
+https://www.code-inspector.com/project/26754/score/svg
 ### Oppurtunities
 * The program can be made GUI based.
 * score total can be added.
