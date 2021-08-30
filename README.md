@@ -12,7 +12,6 @@
 
 * The program can be made GUI based.
 * score total can be added.
-*![code Quality Score](https://www.code-inspector.com/project/26754/score/svg)
 ### Threats
 * No threats 
 
